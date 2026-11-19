@@ -1,0 +1,233 @@
+800,0,'Etats-Unis Fondeyre',8
+801,0,'Jeanne D''Arc',8
+1000,0,'Argoulets',10
+1001,0,'Borderouge',10
+1201,0,'Balma-Gramont',12
+1200,0,'Beaupuy Mairie',12
+1401,0,'Colomiers Ramassiers Gare SNCF',14
+1400,0,'Léguevin Collège',14
+1600,0,'Amouroux',16
+1601,0,'Jeanne D''Arc',16
+1701,0,'Borderouge',17
+1700,0,'Union Malbou',17
+1801,0,'Borderouge',18
+1800,0,'Chaussas',18
+1901,0,'Borderouge',19
+1900,0,'St-Jean Clinique Union',19
+2001,0,'Basso Cambo',20
+2000,0,'Pelletier Purpan',20
+2201,0,'Basso Cambo',22
+2200,0,'Tournefeuille Lycée',22
+2301,0,'Basso Cambo',23
+2300,0,'Portet Gare SNCF',23
+2401,0,'Basso Cambo',24
+2400,0,'Portet H Boucher',24
+2501,0,'Balma-Gramont',25
+2500,0,'La Terrasse',25
+2701,0,'Empalot',27
+2700,0,'Gleyze-Vieille',27
+2801,0,'Colomiers Gare SNCF',28
+2800,0,'Plaisance Ousseau',28
+2900,0,'Auzeville Eglise',29
+2901,0,'U Paul Sabatier',29
+3101,0,'Basso Cambo',31
+3100,0,'Muret Lycée',31
+3201,0,'Lycée Toulouse-Lautrec',32
+3200,0,'St-Jory Collège',32
+3300,0,'St-Alban Ctre Cial',33
+3301,0,'Trois Cocus',33
+3800,0,'Grand Rond',38
+3801,0,'Pelletier Purpan',38
+3901,0,'Arènes',39
+3900,0,'Plaisance Monestié',39
+4001,0,'Balma-Gramont',40
+4000,0,'Castelmaurou Mairie',40
+4100,0,'Bruguières Verger',41
+4101,0,'La Vache',41
+4200,0,'Aéroconstellation',42
+4201,0,'Jeanne D''Arc',42
+4300,0,'Aussonne Agassines',43
+4301,0,'Seilh Mairie',43
+4400,0,'Balma Lasbordes',44
+4401,0,'Balma-Gramont',44
+4501,0,'Borderouge',45
+4500,0,'St-Jean Lestang',45
+4601,0,'Collège Mermoz',46
+4600,0,'Mondonville Moulis',46
+4701,0,'Colomiers Gare SNCF',47
+4700,0,'Mondonville Moulis',47
+4801,0,'Argoulets',48
+4800,0,'Lapeyrouse',48
+5101,0,'Ramonville',51
+5100,0,'St-Orens Lycée',51
+5200,0,'Belberaud Balme',52
+5201,0,'Rangueil',52
+5401,0,'Malepère',54
+5400,0,'Varennes En Clavié',54
+5501,0,'Castanet-Tolosan',55
+5500,0,'Montbrun Lauragais Roumieu',55
+5600,0,'Ayguesvives Collège',56
+5601,0,'Labège Innopole Gare SNCF',56
+5700,0,'Ayguesvives Collège',57
+5701,0,'Castanet-Tolosan',57
+5800,0,'Castanet-Tolosan',58
+5801,0,'U Paul Sabatier',58
+5900,0,'Ramonville Port S',59
+5901,0,'U Paul Sabatier',59
+6001,0,'Balma-Gramont',60
+6000,0,'St-Orens Lycée',60
+6201,0,'Argoulets',62
+6200,0,'St-Jean Clinique Union',62
+6301,0,'Argoulets',63
+6300,0,'Gratentour Gravette',63
+6400,0,'Arènes Romaines',64
+6401,0,'Colomiers Ramassiers Gare SNCF',64
+6501,0,'Jolimont',65
+6500,0,'Ramonville',65
+7001,0,'Balma Ribaute',70
+7000,0,'Castanet-Tolosan',70
+7201,0,'Basso Cambo',72
+7200,0,'Colomiers Airbus',72
+7300,0,'Arènes',73
+7301,0,'U Paul Sabatier',73
+7401,0,'Jeanne D''Arc',74
+7400,0,'La Terrasse',74
+7501,0,'Borderouge',75
+7500,0,'Montberon',75
+7600,0,'Ramonville',76
+7601,0,'Toulouse-Lautrec Négreneys',76
+8100,0,'Ramonville',81
+8201,0,'Barrière Paris',82
+8200,0,'Ginestous Chênes',82
+8300,0,'Montjoie',83
+8301,0,'Ramonville',83
+8400,0,'Fonbeauzard Mermoz',84
+8401,0,'Jeanne D''Arc',84
+8700,0,'Borderouge',87
+8901,0,'St Agne-SNCF',89
+8900,0,'U Paul Sabatier',89
+9000,0,'Colomiers Gare SNCF',90
+9001,0,'Oncopole Courrière',90
+9400,0,'Compans-Caffarelli',94
+9401,0,'Tournefeuille Lycée',94
+9601,0,'Aéroport',96
+9600,0,'MEETT',96
+9701,0,'Jeanne D''Arc',97
+9700,0,'Pelletier Purpan',97
+9900,0,'Aéroport',99
+9901,0,'Gare Routière',99
+10000,0,'Collège Pechbonnieu',100
+10001,0,'Fenouillet Croix',100
+10101,0,'Basso Cambo',101
+10100,0,'Muret Gare SNCF - Cimetière',101
+10200,0,'St Lys Rossignols',102
+10201,0,'Tournefeuille Lycée',102
+10401,0,'Basso Cambo',104
+10400,0,'Tibaous',104
+10501,0,'Balma-Gramont',105
+10500,0,'Fonsegrives Collège',105
+10700,0,'St Cyprien - République',107
+10801,0,'Jolimont',108
+10800,0,'Secteur A',108
+10901,0,'Cité Scolaire Rive Gauche',109
+10900,0,'Frouzins Complexe Sportif',109
+13801,0,'Colomiers Gare SNCF',138
+13900,0,'Aéroport',139
+13901,0,'Guyenne-Berry',139
+14001,0,'Empalot',140
+14000,0,'U Paul Sabatier',140
+14200,0,'Oncopole Courrière',142
+14201,0,'St Cyprien - République',142
+14300,0,'Arènes',143
+14301,0,'Basso Cambo',143
+14400,0,'Fonsegrives Entiore',144
+14401,0,'Sept Deniers - Salvador Dali',144
+14501,0,'Arènes',145
+14500,0,'Colomiers Lycée International',145
+15101,0,'Andromède-Lycée',151
+15100,0,'Fenouillet Ctre Cial - Entrée S',151
+15201,0,'Muret Gare SNCF - Parvis',152
+15200,0,'Muret Sans Souci',152
+15300,0,'Muret Gare SNCF - Parvis',153
+15301,0,'Muret Salle Horizon',153
+15401,0,'Muret Gare SNCF - Parvis',154
+15400,0,'Muret Peyrusse',154
+15500,0,'Muret Gare SNCF - Cimetière',155
+15501,0,'Muret Guyenne',155
+15601,0,'Muret Côte Bènes',156
+15600,0,'Muret Gare SNCF - Parvis',156
+15700,0,'Muret CAM',157
+15701,0,'Muret Gare SNCF - Parvis',157
+15800,0,'Muret Estantens Eglise',158
+15801,0,'Muret Gare SNCF - Parvis',158
+15901,0,'Muret Gare SNCF - Parvis',159
+15900,0,'Portet Gare SNCF',159
+16001,0,'Muret Gare SNCF - Cimetière',160
+16000,0,'St-Clar Mairie',160
+16100,0,'Fauga Cimetière',161
+16101,0,'Muret Gare SNCF - Cimetière',161
+16201,0,'Eaunes Zac Mandarin',162
+16200,0,'Muret Gare SNCF - Parvis',162
+16301,0,'Fonsorbes Lycée',163
+16300,0,'Muret Gare SNCF - Cimetière',163
+16400,0,'Muret Gare SNCF - Parvis',164
+16401,0,'Portet Gare SNCF',164
+16500,0,'Muret Gare SNCF - Parvis',165
+16501,0,'Portet Gare SNCF',165
+16601,0,'Muret Sans Souci',166
+16600,0,'Portet Gare SNCF',166
+17000,0,'Castanet-Tolosan',170
+17001,0,'Ramonville',170
+17100,0,'St-Orens Piscine',171
+17101,0,'U Paul Sabatier',171
+17200,0,'Gonin',172
+17201,0,'Marengo-SNCF',172
+17400,0,'St-Orens Ctre Cial',174
+17401,0,'Union Grande Halle',174
+17601,0,'Arènes',176
+17600,0,'Plaisance Monestié',176
+18201,0,'Balma-Gramont',182
+18200,0,'Mondouzil ZA Landes',182
+18301,0,'Balma-Gramont',183
+18300,0,'Drémil Stade',183
+18401,0,'Balma-Gramont',184
+18400,0,'Drémil Colombier',184
+18500,0,'Aigrefeuille Clos Marelle',185
+18501,0,'Balma Ribaute',185
+18701,0,'Basso Cambo',187
+18700,0,'Cours Dillon',187
+19301,0,'Empalot',193
+19300,0,'Portet Gare SNCF',193
+19400,0,'Drémil Stade',194
+19401,0,'Fonsegrives Entiore',194
+19700,0,'Salvetat Apouticayre',197
+19701,0,'Tournefeuille Chênes',197
+19800,0,'Colomiers Gare SNCF',198
+20700,0,'Bruguières Gutenberg',207
+20701,0,'St-Alban Salvador Allende',207
+20800,0,'Pôle',208
+20801,0,'Sept Deniers - Salvador Dali',208
+20900,0,'Fenouillet Ctre Cial - Entrée N',209
+20901,0,'La Vache',209
+21501,0,'Basso Cambo',215
+21500,0,'Portet Gare SNCF',215
+21601,0,'Basso Cambo',216
+21600,0,'Frouzins Complexe Sportif',216
+21700,0,'Frouzins Tréville',217
+21701,0,'Portet Gare SNCF',217
+22400,0,'Fonsorbes Lycée',224
+22401,0,'Muret Gare SNCF - Cimetière',224
+23000,0,'Bruguières Mairie',230
+23001,0,'La Vache',230
+26401,0,'Basso Cambo',264
+26400,0,'Marengo-SNCF',264
+26901,0,'Borderouge',269
+26900,0,'Rangueil',269
+27001,0,'Colomiers Gare SNCF',270
+27000,0,'St-Lys Boulodrome',270
+27101,0,'Colomiers Gare SNCF',271
+27100,0,'Léguevin Salle Polyvalente',271
+27201,0,'Lévignac Ancienne Gare',272
+27200,0,'Mérenvielle Gare',272
+27500,0,'Amouroux',275
+27501,0,'Roseraie',275

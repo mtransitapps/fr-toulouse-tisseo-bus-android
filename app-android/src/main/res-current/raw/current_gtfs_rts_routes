@@ -1,0 +1,119 @@
+8,'15','Jeanne Arc / Etats-Unis Fondeyre','A0670F',56,3
+10,'19','Borderouge / Argoulets','58AC25',1567,3
+12,'20','Balma - Gramont / Beaupuy Mairie','007C52',1569,3
+14,'32','Colomiers Ramassiers Gare SNCF / Léguevin Collège','A0670F',1571,3
+16,'39','Jeanne D''Arc / Amouroux','007C52',1573,3
+17,'40','Borderouge / L''Union Malbou','DC006B',1574,3
+18,'41','Borderouge / Chaussas','E46809',1575,3
+19,'42','Borderouge / St-Jean Clinique Union','E46809',1576,3
+20,'46','Basso Cambo / Pelletier Purpan','DC006B',1598,3
+22,'48','Basso Cambo / Tournefeuille Lycée','007C52',1600,3
+23,'49','Basso Cambo / Portet Gare SNCF','004687',1601,3
+24,'50','Basso Cambo / Portet H Boucher','A0670F',1602,3
+25,'51','Balma - Gramont / La Terrasse','E46809',1603,3
+27,'54','Empalot / Gleyze-Vieille','E46809',1605,3
+28,'55','Colomiers Gare SNCF / Plaisance Ousseau','DB001B',1606,3
+29,'56','U Paul Sabatier / Auzeville Eglise','58AC25',1607,3
+31,'58','Basso Cambo / Seysses Gay, Seysses Maison Arrêt Ou Muret Lycée','58AC25',1630,3
+32,'59','La Vache / Saint-Jory Collège','3F2682',1631,3
+33,'60','Trois Cocus / St-Alban Ctr Commercial','3F2682',1632,3
+38,'66','Pelletier Purpan / Grand Rond','007C52',1637,3
+39,'67','Arènes / Plaisance Monestié','E675A7',1638,3
+40,'68','Balma - Gramont / Castelmaurou Mairie','572F08',1660,3
+41,'69','La Vache / Bruguières Verger','BB9DC6',1661,3
+42,'70','Jeanne D''Arc / Aéroconstellation','E675A7',1662,3
+43,'71','Seilh Mairie / Aussonne Agassines','58AC25',1663,3
+44,'72','Balma - Gramont / Balma Lasbordes','004687',1664,3
+45,'73','Borderouge / Saint-Jean Lestang','DB001B',1665,3
+46,'74','Andromède Lycée / Mondonville Moulis','3F2682',1666,3
+47,'75','Colomiers Gare SNCF / Mondonville Moulis','007C52',1667,3
+48,'76','Argoulets / Lapeyrouse','A0670F',1668,3
+51,'79','Ramonville / Labège Couder Ou St-Orens Lycée','0098D4',1692,3
+52,'80','Rangueil / Belberaud La Balme','3F2682',1693,3
+54,'201','Malepère / Varennes En Clavié','E675A7',1695,3
+55,'202','Castanet-Tolosan / Montbrun-Lauragais Roumieu','58AC25',1696,3
+56,'204','Labège Innopole Gare SNCF / Ayguesvives Collège','DB001B',1697,3
+57,'205','Castanet-Tolosan / Ayguesvives Collège','0098D4',1698,3
+58,'81','U Paul Sabatier / Castanet-Tolosan','DC006B',1699,3
+59,'82','U Paul Sabatier / Ramonville Port S','DB001B',1700,3
+60,'83','Balma - Gramont / St-Orens Lycée','DC006B',1722,3
+62,'43','Argoulets / St-Jean Clinique Union','58AC25',1724,3
+63,'33','Argoulets / Gratentour Gravette','0098D4',1725,3
+64,'35','Colomiers Ramassiers Gare SNCF / Arènes Romaines','58AC25',1726,3
+65,'37','Jolimont / Ramonville','004687',1727,3
+70,'109','Balma Ribaute / Castanet-Tolosan','58AC25',1753,3
+72,'21','Basso Cambo / Colomiers Airbus','007C52',1755,3
+73,'34','Université Paul Sabatier / Arènes','E46809',1756,3
+74,'23','Jeanne D''Arc / La Terrasse','A0670F',1757,3
+75,'26','Borderouge / Montberon','A0670F',1758,3
+76,'27','Toulouse-Lautrec Négreneys / Ramonville','58AC25',1759,3
+81,'111','Ramonville / Ramonville','DC006B',1785,3
+82,'110','Barrière Paris / Ginestous Chênes','0098D4',1786,3
+83,'112','Ramonville / Montjoie','007C52',1787,3
+84,'29','Jeanne D''Arc / Fonbeauzard Mermoz','DC006B',1788,3
+87,'114','Borderouge / Quartier Virebent','58AC25',1791,3
+89,'115','St Agne - SNCF / U Paul Sabatier','007C52',1793,3
+90,'25','Oncopole Courrière / Colomiers Gare SNCF','3F2682',1815,3
+94,'63','Tournefeuille Lycée / Compans-Caffarelli','E675A7',1819,3
+96,'30','Aéroport / MEETT','0098D4',1821,3
+97,'45','Jeanne D''Arc / Pelletier Purpan','58AC25',1822,3
+99,'AERO','Navette Aéroport','E46809',1824,3
+100,'113','Fenouillet Croix / Collège Pechbonnieu','E46809',48625,3
+101,'117','Basso Cambo / Muret Gare SNCF - Cimetière','0098D4',48626,3
+102,'116','Tournefeuille Lycée / St-Lys Rossignols','0098D4',48627,3
+104,'53','Basso Cambo / Tibaous','0098D4',48629,3
+105,'84','Balma - Gramont / Fonsegrives Collège','0098D4',48630,3
+107,'VILLE','Navette Centre Ville','E675A7',48632,3
+108,'CIMTR','Navette Cimetières','0098D4',48633,3
+109,'87','Cité Scolaire Rive Gauche / Frouzins Complexe Sportif','004687',48634,3
+138,'150','Colomiers Gare SNCF / Colomiers Gare SNCF','0098D4',48726,3
+139,'31','Guyenne - Berry / Aéroport','DC006B',48727,3
+140,'44','Empalot / U Paul Sabatier','0098D4',48749,3
+142,'13','St Cyprien - République / Oncopole Courrière','3F2682',48751,3
+143,'18','Basso Cambo / Arènes Ou Cité Scolaire Rive-Gauche','E46809',48752,3
+144,'L1','Sept Deniers - Salvador Dali / Fonsegrives Entiore','FF671B',48753,3
+145,'L2','Arènes / Colomiers Lycée International','FF671B',48754,3
+151,'130','Andromède Lycée / Fenouillet Ctr Commercial - Entrée S','A0670F',48781,3
+152,'301','Muret Gare SNCF - Parvis / Muret Sans Souci','DC006B',48782,3
+153,'302','Muret Gare SNCF - Parvis / Muret Salle Horizon','E46809',48783,3
+154,'303','Muret Gare SNCF - Parvis / Muret Peyrusse','E675A7',48784,3
+155,'304','Muret Gare SNCF - Cimetière / Muret Guyenne','DC006B',48785,3
+156,'305','Muret Gare SNCF - Parvis / Muret Côte Bènes','0098D4',48786,3
+157,'306','Muret Gare SNCF - Parvis / Muret CAM','E675A7',48787,3
+158,'310','Muret Gare SNCF - Parvis / Muret Estantens Eglise','007C52',48788,3
+159,'311','Muret Gare SNCF - Parvis / Portet Gare SNCF (Par Villate)','58AC25',48789,3
+160,'312','Muret Gare SNCF - Cimetière / St-Clar Mairie','3F2682',48811,3
+161,'313','Muret Gare SNCF - Cimetière / Fauga Cimetière','E675A7',48812,3
+162,'314','Muret Gare SNCF - Parvis / Eaunes ZAC Mandarin','DB001B',48813,3
+163,'315','Muret Gare SNCF - Cimetière / Fonsorbes Lycée','A0670F',48814,3
+164,'316','Muret Gare SNCF - Parvis / Portet Gare SNCF (Par Labarthe)','004687',48815,3
+165,'317','Muret Gare SNCF - Parvis / Portet Gare SNCF (Par Saubens)','E46809',48816,3
+166,'320','Portet Gare SNCF / Muret Sans Souci','0098D4',48817,3
+170,'L6','Ramonville / Castanet-Tolosan','FF671B',48842,3
+171,'L7','U Paul Sabatier / St-Orens Piscine','FF671B',48843,3
+172,'L8','Marengo - SNCF / Gonin','FF671B',48844,3
+174,'L9','Union Grande Halle / St-Orens Ctr Commercial','FF671B',48846,3
+176,'L3','Arènes / Plaisance Monestié','FF671B',48848,3
+182,'101','Balma - Gramont / Mondouzil ZA Landes','BB9DC6',48875,3
+183,'102','Balma - Gramont / Drémil Stade','3F2682',48876,3
+184,'103','Balma - Gramont / Drémil Colombier','58AC25',48877,3
+185,'104','Balma Ribaute / Aigrefeuille Clos Marelle','E675A7',48878,3
+187,'L4','Basso Cambo / Cours Dillon','FF671B',48880,3
+193,'L5','Empalot / Portet Gare SNCF','FF671B',48907,3
+194,'107','Fonsegrives Entiore / Drémil Stade','A0670F',48908,3
+197,'121','Tournefeuille Chênes / Salvetat Apouticayre','DC006B',48911,3
+198,'151','Colomiers Gare SNCF / Colomiers Gare SNCF','004687',48912,3
+207,'131','St-Alban Salvador Allende / Bruguières Gutenberg','58AC25',49593,3
+208,'132','Sept Deniers - Salvador Dali / Pôle','007C52',49594,3
+209,'L10','Vache / Fenouillet Ctr Commercial - Entrée N','FF671B',49595,3
+215,'85','Basso Cambo / Portet Gare SNCF','E675A7',49622,3
+216,'L11','Basso Cambo / Frouzins Complexe Sportif','FF671B',49623,3
+217,'321','Frouzins Tréville / Portet Gare SNCF','A0670F',49624,3
+224,'318','Muret Gare SNCF - Cimetière / Fonsorbes Lycée','007C52',49652,3
+230,'169','La Vache / Bruguières Mairie','DB001B',49679,3
+264,'L14','Basso Cambo / Marengo - SNCF','FF671B',49776,3
+269,'L12','Borderouge / Rangueil','FF671B',49781,3
+270,'401','Colomiers Gare SNCF / St-Lys Boulodrome','58AC25',49803,3
+271,'402','Colomiers Gare SNCF / Léguevin Salle Polyvalente','DC006B',49804,3
+272,'403','Lévignac Ancienne Gare / Mérenvielle Gare','004687',49805,3
+275,'139','Roseraie / Amouroux','58AC25',49808,3

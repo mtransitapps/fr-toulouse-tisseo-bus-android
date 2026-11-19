@@ -1,5 +1,6 @@
 {
     "target_route_type_id": 3,
+    "agency_id_cleanup_regex": "^network:",
     "default_color": "E5056E",
     "default_color_comment": "PINK (from website CSS)",
     "default_color_enabled": true,
